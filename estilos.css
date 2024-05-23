@@ -61,5 +61,11 @@ body
 {
 	width: 100%;
 	background: #0ef;
+}
+
+.header
+{
+	align-items: center;
+	font-size: 24;
 
 }
